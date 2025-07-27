@@ -1,11 +1,10 @@
 # feyzanuryigit  
 👋 Hi, I'm Feyzanur Yiğit!
-
-🎓 I’m a 2nd-year Chemical Engineering student at Ankara University.  
+🎓 I’m a Chemical Engineering student at Ankara University.  
 🌍 My goal is to do an internship in Germany and work as an engineer in Europe in the future.  
 ⚗️ I’m interested in developing engineering projects, learning new languages, conducting research, and continuously improving my skills.
 📚 I’m currently researching PSM and sharing what I learn on GitHub.  
-🇩🇪 I’m learning German (B1–B2 level) and aiming to take the B2 exam in spring 2026.  
+🇩🇪 I’m learning German (B1–B2 level) and aiming to take B2 certificate.  
 💡 I want to grow not only in the field, but also in technical and academic areas.
 
 ## 🎯 My Goals
